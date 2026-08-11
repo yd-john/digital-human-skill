@@ -1,0 +1,4 @@
+interface:
+  display_name: "单人主播数字人口播"
+  short_description: "支持多种TTS与视频生成后端的完整数字人口播流水线"
+  default_prompt: "Use $single-host-digital-human to produce a complete single-host digital-human video with the best available voice and video providers."
