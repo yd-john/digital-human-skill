@@ -36,7 +36,7 @@ Create a compact production manifest when no equivalent exists. Use the template
 
 ### 1. Lock the presenter image
 
-Use the image-generation skill with the user's character reference and logo. Default to a photorealistic 16:9 technology studio with restrained blue, cyan, and purple lighting, a premium laptop, and an integrated wall logo. Keep the person dominant; props, awards, and logo stay secondary. Generate one candidate, show it, and wait for approval.
+Use the image-generation skill with the user's character reference and logo. Default to a photorealistic 16:9 technology studio with restrained blue, cyan, and purple lighting, a premium laptop, and an integrated wall logo. Keep the person dominant; props and logo stay secondary. Generate one candidate, show it, and wait for approval.
 
 Preserve the approved image as the master reference. Do not replace it during later video generation.
 
@@ -72,7 +72,7 @@ Normalize each backend job to the same fields: provider, model, image reference,
 
 Place all generated host clips in narration order. Accept one long user screen recording when convenient; inspect it and select only the ranges matching the spoken step. Hide dead scrolling, unrelated chat, private data, temporary paths, keys, and balances.
 
-If a host clip contains unwanted reconstructed props or medals, cover that interval with relevant B-roll or a reframed crop. When the original generated pronunciation is wrong, mute it and replace it with the approved TTS audio; conceal visible lip mismatch with B-roll while keeping a small moving presenter bubble only when it still looks credible.
+If a host clip reconstructs or introduces background objects that are not present in the approved reference, cover that interval with relevant B-roll or a reframed crop. When the original generated pronunciation is wrong, mute it and replace it with the approved TTS audio; conceal visible lip mismatch with B-roll while keeping a small moving presenter bubble only when it still looks credible.
 
 ### 7. Finish in ChatCut
 
