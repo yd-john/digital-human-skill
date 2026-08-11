@@ -27,7 +27,7 @@ Read this file when assembling clips, placing B-roll, styling subtitles, repairi
 - Add a gentle slow push to static-looking captures.
 - Use clean cuts or subtle dissolves; avoid effect-heavy transitions.
 - For a presenter bubble, crop the actual moving host video into a circle and place it in a safe corner. Keep the host moving; do not use a still image.
-- Cover generated frames containing unwanted desk awards, reconstructed props, or severe mouth errors with B-roll when a clean source is unavailable.
+- Cover generated frames containing reconstructed or newly introduced background objects, or severe mouth errors, with B-roll when a clean source is unavailable.
 
 ## Technology-creator graphics
 
@@ -73,7 +73,7 @@ AI 数字人口播
 从 0 到成片
 ```
 
-Require exact text, no extra characters, no watermark, natural five-finger hands, and no medals on the desk.
+Require exact text, no extra characters, no watermark, natural five-finger hands, and strict continuity with the approved presenter and scene references.
 
 Recommended title pattern:
 
